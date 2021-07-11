@@ -34,7 +34,7 @@ header {
     text-decoration: none;
 }
 
-#.navbar a:hover {
+#navbar a:hover {
     background-color: #D6A800;
     color: #4F3674;
 }
